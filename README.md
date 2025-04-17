@@ -1,3 +1,6 @@
+
+![DiamondGotCat-Zeta_1024](https://github.com/user-attachments/assets/4b30d8b7-526a-464e-890b-9125dde19d2b)
+
 > [!IMPORTANT]
 > Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
 
