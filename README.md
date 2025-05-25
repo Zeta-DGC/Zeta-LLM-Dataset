@@ -1,4 +1,4 @@
-![wall-2_v20-1](https://github.com/user-attachments/assets/edb27cf9-8125-47d1-9b5f-1e79f067c8e8)
+![wall_v20-1](https://github.com/user-attachments/assets/f88984ad-bc8e-44e0-8f46-a7ad6a7eb52d)
 
 > [!IMPORTANT]
 > Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
