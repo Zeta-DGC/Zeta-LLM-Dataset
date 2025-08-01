@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="Zeta Header Rounded" src="https://github.com/user-attachments/assets/2c3243c2-9eef-4d03-9c96-f1e63077ca08" />
+<img width="1920" height="1080" alt="Zeta Header" src="https://github.com/user-attachments/assets/3dd58686-0453-4f76-a5cd-77301ca035b8" />
 
 > [!IMPORTANT]
 > Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
