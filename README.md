@@ -1,11 +1,10 @@
 
-<img width="1920" height="1080" alt="Zeta Header" src="https://github.com/user-attachments/assets/3dd58686-0453-4f76-a5cd-77301ca035b8" />
-
-> [!IMPORTANT]
-> Main Repository: [Zeta](https://github.com/DiamondGotCat/Zeta)
+<img width="1920" alt="Zeta Header Black v26" src="https://github.com/user-attachments/assets/4dcbd354-ab2e-4016-ad90-32bed33546fa" />
 
 # Dataset for Zeta Project
 Zeta Project is Community of "I want My own LLM/AGI!" Peoples.
+
+**Main Repository:** [Zeta](https://github.com/DiamondGotCat/Zeta)
 
 ## Datasets
 Please visit [Release Tab](https://github.com/DiamondGotCat/Zeta-Dataset/releases)
