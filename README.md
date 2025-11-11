@@ -1,5 +1,5 @@
 
-<img width="1920" alt="Zeta Header Black v26" src="https://github.com/user-attachments/assets/4dcbd354-ab2e-4016-ad90-32bed33546fa" />
+<img width="1920" alt="zeta_full_black" src="https://github.com/user-attachments/assets/353776c6-3ae2-4576-9c5e-5c0f67e49b97" />
 
 # Dataset for Zeta Project
 Zeta Project is Community of "I want My own LLM/AGI!" Peoples.
