@@ -1,5 +1,5 @@
 
-<img width="1920" alt="zeta_full_black" src="https://github.com/user-attachments/assets/353776c6-3ae2-4576-9c5e-5c0f67e49b97" />
+<img width="1280" src="https://assets.nercone.dev/images/thumbnail/zeta-llm-dataset.png" />
 
 # Dataset for Zeta Project
 Zeta Project is Community of "I want My own LLM/AGI!" Peoples.
